@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pshakya8751@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aykahshi/](https://www.linkedin.com/in/aykahshi/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/aykahshi/)
 
 - ⚡ Fun fact **I’ve only been working for a year since finishing my master’s and started learning Flutter less than a year ago — but I’m already leading a 7-person Flutter team that I built from scratch at my company!**
 
