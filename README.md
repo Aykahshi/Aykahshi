@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎯 **Current Focus**: Enhancing **[Joker State](https://github.com/Aykahshi/joker_state)** and **[Local Ref](https://github.com/Aykahshi/local_ref)**, a project aimed at redefining state management in Flutter applications.
+- 🎯 **Current Focus**: Enhancing **[Joker State](https://github.com/Aykahshi/joker_state)**, a project aimed at redefining state management in Flutter applications.
 - 🌱 **Continuous Learner**: Diving deeper into full-stack Flutter development, Dart backend, and CI/CD automation. 
 - 🗣️ **Let's Talk About**: Flutter, Clean Architecture, State Management, CI/CD processes.
 - 😄 **Fun Fact**: Within less than a year of mastering Flutter, I grew to lead a talented team of 7 Flutter developers!
@@ -35,7 +35,6 @@
 ### 🌟 Noteworthy Projects
 
 - **[Joker State](https://github.com/Aykahshi/joker_state):** A state management solution tailored specifically for Flutter enthusiasts.
-- **[Local Ref](https://github.com/Aykahshi/local_ref):** A lightweight state management inspire by Vue3.
 - Feel free to explore my other repositories for open-source contributions and personal projects.
 
 ---
