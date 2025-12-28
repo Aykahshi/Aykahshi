@@ -1,5 +1,7 @@
-<h1 align="center">Welcome! 👋 I'm Aykahshi (Zack)</h1>
-<h3 align="center">Building Immersive Digital Experiences with Flutter | Enthusiastic Open Source Developer from Taiwan</h3>
+<h1 align="center">Hi there, I'm Aykahshi (Zack) 👋</h1>
+<p align="center">
+  <b>Senior Software Engineer | Building Efficient & Immersive Digital Experiences</b>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aykahshi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,39 +11,35 @@
 
 ### 👨‍💻 About Me
 
-- 🎯 **Current Focus**: Enhancing **[Joker State](https://github.com/Aykahshi/joker_state)**, a project aimed at redefining state management in Flutter applications.
-- 🌱 **Continuous Learner**: Diving deeper into full-stack Flutter development, Dart backend, and CI/CD automation. 
-- 🗣️ **Let's Talk About**: Flutter, Clean Architecture, State Management, CI/CD processes.
-- 😄 **Fun Fact**: Within less than a year of mastering Flutter, I grew to lead a talented team of 7 Flutter developers!
+I am a Senior Software Engineer specializing in **Flutter** application development and modern full-stack technologies.
+Beyond a solid technical foundation, I excel in **AI-Driven Development**. By deeply integrating advanced AI tools like **Claude Code**, **GitHub Copilot**, and **Antigravity**, I significantly boost development efficiency, delivering high-quality, maintainable code in record time.
 
-### 📫 Connect With Me
+### 🚀 Current Focus
 
-- 📧 Email: [pshakya8751@gmail.com](mailto:pshakya8751@gmail.com)
+Currently dedicated to developing and optimizing the following projects, exploring the deep integration of AI Agents with the development ecosystem:
+
+- **[Flutter Agent Panel](https://github.com/Aykahshi/flutter-agent-panel)**  
+  A modern, cross-platform terminal aggregator designed for the AI era. It unifies professional terminal emulation with seamless AI Agent integration (e.g., Claude Code, GitHub Copilot CLI), creating a cohesive workspace for developers.
+
+- **[Copilot MCP Tool](https://github.com/Aykahshi/copilot-mcp-tool)**  
+  An actively maintained Model Context Protocol (MCP) server that bridges GitHub Copilot CLI with MCP clients. It empowers AI assistants with interactive tools, session management, and dedicated plugins for enhanced context awareness.
+
+### 🛠️ Technologies & Tools
+
+Possessing a broad technical horizon, capable of selecting the most appropriate tools based on business needs:
+
+- **Core**: Flutter, Dart, Python, TypeScript
+- **Frontend Frameworks**: Vue.js, Angular, React
+- **Backend & Database**: PostgreSQL, Node.js
+- **AI & Efficiency**: Claude Code, Copilot, Antigravity, Zed
+
+### 🎮 Side Projects
+
+- **[Auto Nueip](https://github.com/Aykahshi/auto_nueip_revamp)**: An unofficial mobile client for the NUEIP HR system. It serves as a comprehensive **real-world implementation of Joker State**, featuring Clean Architecture, GPS check-ins, and local notifications.
+
+- **[Joker State](https://github.com/Aykahshi/joker_state)**: A lightweight Flutter state management solution I created, focused on minimalist architecture. It powers application like *Auto Nueip* to demonstrate its practical capability.
+
+### 📫 Connect
+
 - 💼 LinkedIn: [Zack Shi](https://www.linkedin.com/in/aykahshi)
-
----
-
-### 🔧 Technologies & Tools
-
-<p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-</p>
-
----
-
-### 🌟 Noteworthy Projects
-
-- **[Joker State](https://github.com/Aykahshi/joker_state):** A state management solution tailored specifically for Flutter enthusiasts.
-- Feel free to explore my other repositories for open-source contributions and personal projects.
-
----
-
-### ⚡ Fun Facts
-
-- 🚀 Started leading a 7-person Flutter development team just one year into my professional journey.
-- 🌏 Always eager to connect with fellow developers and share knowledge. Let's build something innovative together!
-
-Feel free to reach out for collaboration, discussions, or just a friendly tech chat. Keep coding and stay awesome! 🌟
+- 📧 Email: [pshakya8751@gmail.com](mailto:pshakya8751@gmail.com)
