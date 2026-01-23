@@ -14,9 +14,12 @@
 I am a Senior Software Engineer specializing in **Flutter** application development and modern full-stack technologies.
 Beyond a solid technical foundation, I excel in **AI-Driven Development**. By deeply integrating advanced AI tools like **Claude Code**, **GitHub Copilot**, and **Antigravity**, I significantly boost development efficiency, delivering high-quality, maintainable code in record time.
 
-### 🚀 Current Focus
+### 🚀 Current Focus Projects
 
 Currently dedicated to developing and optimizing the following projects, exploring the deep integration of AI Agents with the development ecosystem:
+
+- **[Omo Switch](https://github.com/Aykahshi/omo-switch)**  
+  A lightweight tool that simplifies switching between different oh-my-opencode configurations with ease.
 
 - **[Flutter Agent Panel](https://github.com/Aykahshi/flutter-agent-panel)**  
   A modern, cross-platform terminal aggregator designed for the AI era. It unifies professional terminal emulation with seamless AI Agent integration (e.g., Claude Code, GitHub Copilot CLI), creating a cohesive workspace for developers.
@@ -33,7 +36,7 @@ Possessing a broad technical horizon, capable of selecting the most appropriate 
 - **Backend & Database**: PostgreSQL, Node.js
 - **AI & Efficiency**: Claude Code, Copilot, Antigravity, Zed
 
-### 🎮 Side Projects
+### 🎮 Legacy Side Projects
 
 - **[Auto Nueip](https://github.com/Aykahshi/auto_nueip_revamp)**: An unofficial mobile client for the NUEIP HR system. It serves as a comprehensive **real-world implementation of Joker State**, featuring Clean Architecture, GPS check-ins, and local notifications.
 
